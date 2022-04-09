@@ -16,9 +16,9 @@ Tools and technologies used
 ## Running the test suite
 run the following maven command at project root level
 
-$mvn clean
-$mvn compile
-$mvn test
+- $mvn clean
+- $mvn compile
+- $mvn test
 
 ## Authors
 
