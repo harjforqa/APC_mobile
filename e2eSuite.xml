@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="e2e">
+    <test name="e2eTest">
+        <classes>
+            <class name="TestCases.PushNotificationTests"/>
+        </classes>
+    </test>
+</suite>
